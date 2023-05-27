@@ -50,7 +50,7 @@ server.adformdsp.net
 s.adframesrc.com
 media.adfrontiers.com
 www.adgitize.com
-www.ad-groups.com #[Ban Man Pro Banner Code]
+www.ad-groups.com
 adgrx.com
 adhall.com
 adhitzads.com
@@ -62,7 +62,7 @@ w.admedia.com
 cdn.admixer.net
 run.admost.com
 ads.adnet.am
-ad.adnet.biz #[Tracking.Cookie]
+ad.adnet.biz
 adnet.com.ua
 www.ad-net.co.uk
 srv.adngin.com
@@ -273,7 +273,7 @@ www.co2stats.com
 traffic.prod.cobaltgroup.com
 pixel.condenastdigital.com
 ads.consumeraffairs.com
-ads.contactmusic.com #[AdvertPro]
+ads.contactmusic.com
 ads.contextweb.com
 ds.contextweb.com
 www.contaxe.com
@@ -283,7 +283,7 @@ ad.cooks.com
 ad2.cooks.com
 banners.copyscape.com
 data.de.coremetrics.com
-www.counter-gratis.com #[Tracking.Cookie]
+www.counter-gratis.com
 cdn.dmpcounter.com
 connectionzone.com
 banner.coza.com
@@ -318,7 +318,7 @@ vstats.digitaltrends.com
 www.direct-stats.com
 glitter.services.disqus.com
 disqusads.com
-return.domainnamesales.com #[Parking.Service]
+return.domainnamesales.com
 publishers.domainadvertising.com
 return.bs.domainnamesales.com
 ad.donanimhaber.com
@@ -344,7 +344,7 @@ www.easy-dating.org
 ads.eccentrix.com
 c.ecliks.com
 ad.ecplaza.net
-ads.ecrush.com #[AdvertPro]
+ads.ecrush.com
 ads.bridgetrack.com.edgesuite.net
 images.edgeads.org
 servedby.edgeads.org
@@ -365,7 +365,7 @@ adsrv.ads.eniro.com
 publicidad.entelchile.net
 sa.entireweb.com
 entk.net
-e-marketing.entelchile.net #[RealMedia]
+e-marketing.entelchile.net
 ads.e-planning.net
 epmads.com
 code.etracker.com
@@ -377,7 +377,7 @@ pixel-user-1039.everesttech.net
 venetian.evyy.net
 www.exchangead.com
 ads.expekt.com
-www.experclick.com #[Tracking.Cookie]
+www.experclick.com
 expo-max.com
 expired-targeted.com
 resources.eyereturn.com
@@ -385,7 +385,7 @@ resources.eyereturn.com
 # [F]
 st.fanatics.com
 a.farlex.com
-fashion-tube.be #[Win32/InstallMonetizer.AN]
+fashion-tube.be
 fastonlineusers.com
 counter.fateback.com
 counter1.fc2.com
@@ -435,7 +435,7 @@ adserving.fyi-marketing.com
 errdoc.gabia.net
 ingameads.gameloft.com
 ads.garga.biz
-track.gawker.com #[WebBug]
+track.gawker.com
 geoip-db.com
 www.geoplugin.net
 adv.gepime.com
@@ -467,7 +467,7 @@ beacon.gutefrage.net
 tags.h12-media.com
 adserver.hardwareanalysis.com
 www.harmonyhollow.net
-stats.berkman.harvard.edu #[Piwik.Analytics]
+stats.berkman.harvard.edu
 ads.haskovo.net
 ad0.haynet.com
 ads.hearstmags.com
@@ -496,18 +496,18 @@ ads.hulu.com
 ads2000.hw.net
 dserver.hw.net
 www.hxtrack.com
-www.hypertracker.com #[Tracking.Cookie]
+www.hypertracker.com
 # [I]
 ev.ib-ibi.com
 bbcdn-bbnaut.ibillboard.com
 bbcdn-tag.ibillboard.com
 hits.icdirect.com
 tracker.icerocket.com
-# mpsnare.iesnare.com #[affects westernunion.com]
+# mpsnare.iesnare.com
 adsrv2.ihlassondakika.com
 ads.imarketservices.com
 ads.imeem.com
-stats.immense.net #[Piwik.Analytics]
+stats.immense.net
 ads.imguol.com
 affiliate.imperiaonline.org
 secure-dcr.imrworldwide.com
